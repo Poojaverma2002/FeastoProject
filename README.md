@@ -26,4 +26,4 @@ Context API
 
 🔗 Live Demo
 
-https://yourdomain.vercel.app/festo](https://feasto-project.vercel.app/
+https://feasto-project.vercel.app/
